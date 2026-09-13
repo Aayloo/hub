@@ -1,25 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360">
 <rect width="1000" height="360" fill="#ffffff"/>
-<text x="500" y="48" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="700" fill="#172033">Quant Learning Knowledge Base</text>
-<text x="500" y="76" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="15" fill="#667085">Statistics · ML · DL · Time Series · LLM</text>
+<text x="500" y="48" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="700" fill="#172033">Learning Knowledge Base</text>
+<text x="500" y="76" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="15" fill="#667085">Math · Statistics · ML · DL · Time Series · LLM · Agent</text>
 <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#667085"/></marker></defs>
 <rect x="350" y="100" width="300" height="62" rx="12" fill="#fff4e5" stroke="#f59e0b" stroke-width="2"/>
 <text x="500" y="140" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="22" font-weight="700" fill="#9a5500">Knowledge Base</text>
 <line x1="500" y1="162" x2="500" y2="200" stroke="#667085" stroke-width="2"/>
-<line x1="100" y1="200" x2="900" y2="200" stroke="#667085" stroke-width="2"/>
-<line x1="100" y1="200" x2="100" y2="240" stroke="#667085" stroke-width="2" marker-end="url(#arrow)"/>
-<line x1="300" y1="200" x2="300" y2="240" stroke="#667085" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="68" y1="200" x2="932" y2="200" stroke="#667085" stroke-width="2"/>
+<line x1="68" y1="200" x2="68" y2="240" stroke="#667085" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="212" y1="200" x2="212" y2="240" stroke="#667085" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="356" y1="200" x2="356" y2="240" stroke="#667085" stroke-width="2" marker-end="url(#arrow)"/>
 <line x1="500" y1="200" x2="500" y2="240" stroke="#667085" stroke-width="2" marker-end="url(#arrow)"/>
-<line x1="700" y1="200" x2="700" y2="240" stroke="#667085" stroke-width="2" marker-end="url(#arrow)"/>
-<line x1="900" y1="200" x2="900" y2="240" stroke="#667085" stroke-width="2" marker-end="url(#arrow)"/>
-<rect x="10" y="240" width="180" height="62" rx="12" fill="#f5f7fa" stroke="#98a2b3" stroke-width="2"/>
-<rect x="210" y="240" width="180" height="62" rx="12" fill="#f5f7fa" stroke="#98a2b3" stroke-width="2"/>
-<rect x="410" y="240" width="180" height="62" rx="12" fill="#f5f7fa" stroke="#98a2b3" stroke-width="2"/>
-<rect x="610" y="240" width="180" height="62" rx="12" fill="#f5f7fa" stroke="#98a2b3" stroke-width="2"/>
-<rect x="810" y="240" width="180" height="62" rx="12" fill="#f5f7fa" stroke="#98a2b3" stroke-width="2"/>
-<text x="100" y="280" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="20" font-weight="700" fill="#344054">Statistics</text>
-<text x="300" y="280" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="20" font-weight="700" fill="#344054">ML</text>
-<text x="500" y="280" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="20" font-weight="700" fill="#344054">DL</text>
-<text x="700" y="280" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="20" font-weight="700" fill="#344054">Time Series</text>
-<text x="900" y="280" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="20" font-weight="700" fill="#344054">AI / LLM</text>
+<line x1="644" y1="200" x2="644" y2="240" stroke="#667085" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="788" y1="200" x2="788" y2="240" stroke="#667085" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="932" y1="200" x2="932" y2="240" stroke="#667085" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="6" y="240" width="124" height="62" rx="12" fill="#f5f7fa" stroke="#98a2b3" stroke-width="2"/>
+<rect x="150" y="240" width="124" height="62" rx="12" fill="#f5f7fa" stroke="#98a2b3" stroke-width="2"/>
+<rect x="294" y="240" width="124" height="62" rx="12" fill="#f5f7fa" stroke="#98a2b3" stroke-width="2"/>
+<rect x="438" y="240" width="124" height="62" rx="12" fill="#f5f7fa" stroke="#98a2b3" stroke-width="2"/>
+<rect x="582" y="240" width="124" height="62" rx="12" fill="#f5f7fa" stroke="#98a2b3" stroke-width="2"/>
+<rect x="726" y="240" width="124" height="62" rx="12" fill="#f5f7fa" stroke="#98a2b3" stroke-width="2"/>
+<rect x="870" y="240" width="124" height="62" rx="12" fill="#f5f7fa" stroke="#98a2b3" stroke-width="2"/>
+<text x="68" y="278" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="15" font-weight="700" fill="#344054">Math</text>
+<text x="212" y="278" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="15" font-weight="700" fill="#344054">Statistics</text>
+<text x="356" y="278" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="15" font-weight="700" fill="#344054">ML</text>
+<text x="500" y="278" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="15" font-weight="700" fill="#344054">DL</text>
+<text x="644" y="278" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="15" font-weight="700" fill="#344054">Time Series</text>
+<text x="788" y="278" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="15" font-weight="700" fill="#344054">LLM</text>
+<text x="932" y="278" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="15" font-weight="700" fill="#344054">Agent</text>
 </svg>
