@@ -73,11 +73,6 @@ QS 项目集 · 保险资管 Agent · 学习知识库
 
 ![量化学习知识库产出时序图](./docs/ml-ai-sequence.svg)
 
-## 相关入口
-
-- 个人站点：https://aayloo.github.io/
-- AI Agent 入门（在线报告）：https://aayloo.github.io/Agent/
-
 ## 许可证
 
-MIT © 2026 Aayloo（本仓库仅包含说明文档与图，内容仓库各自独立）
+MIT © 2026（本仓库仅包含说明文档与图，内容仓库各自独立）
